@@ -1,1 +1,1 @@
-# Manufacturing_Analytics
+This project showcases an end-to-end Manufacturing Analytics Dashboard built using Excel, Power BI, Tableau, and SQL. It provides deep insights into production performance, efficiency, and rejection analysis across multiple dimensions.
